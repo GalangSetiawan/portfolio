@@ -1,8 +1,8 @@
 #Environtment information
-Angular CLI: 16.2.1
-Node: 18.16.0
-Package Manager: npm 9.6.6
-OS: win32 x64
+- Angular CLI: 16.2.1
+- Node: 18.16.0
+- Package Manager: npm 9.6.6
+- OS: win32 x64
 
 #Access github page
 click it : https://galangsetiawan.github.io/portfolio/
