@@ -1,0 +1,6 @@
+
+
+Angular CLI 16.2.1
+Node 18.16.0
+Package Manager npm 9.6.6
+OS win32 x64
