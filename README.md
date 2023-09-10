@@ -1,17 +1,16 @@
+#Environtment information
 Angular CLI: 16.2.1
 Node: 18.16.0
 Package Manager: npm 9.6.6
 OS: win32 x64
 
-Angular:
-...
+#Access github page
+click it : https://galangsetiawan.github.io/portfolio/
 
-Package                      Version
-------------------------------------------------------
-@angular-devkit/architect    0.1602.1 (cli-only)
-@angular-devkit/core         16.2.1 (cli-only)
-@angular-devkit/schematics   16.2.1 (cli-only)
-@schematics/angular          16.2.1 (cli-only)
+#Note myself
+1. program ini dijalankan menggunakan gitpod
+2. repository ini sudah auto deploy menggunakan github CI
+
 
 # Portfolio
 
