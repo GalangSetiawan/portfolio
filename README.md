@@ -1,3 +1,18 @@
+Angular CLI: 16.2.1
+Node: 18.16.0
+Package Manager: npm 9.6.6
+OS: win32 x64
+
+Angular:
+...
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.1602.1 (cli-only)
+@angular-devkit/core         16.2.1 (cli-only)
+@angular-devkit/schematics   16.2.1 (cli-only)
+@schematics/angular          16.2.1 (cli-only)
+
 # Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
